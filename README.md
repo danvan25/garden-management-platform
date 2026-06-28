@@ -124,3 +124,15 @@ Garden Devices
 * Advanced automation
 * AI-assisted monitoring
 * 3D Scanner infrastructure integration
+---
+
+# Engineering Principles
+
+The Garden Management Platform follows a small set of engineering principles.
+
+- Build real solutions instead of demo applications.
+- Document every important decision.
+- Keep the architecture simple and maintainable.
+- Learn by building and operating real infrastructure.
+- Security should be considered from the beginning.
+- Continuous improvement is more important than perfection.
